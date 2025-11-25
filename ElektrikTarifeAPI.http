@@ -1,0 +1,6 @@
+@ElektrikTarifeAPI_HostAddress = http://localhost:5197
+
+GET {{ElektrikTarifeAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
